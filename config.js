@@ -6,7 +6,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2671488-fb491a80091166a48bc66b17',
+    'ur2972199-18d4f0e66a8871e4cd1c4fd2',
     //'m797638073-924f5efed86446cce1c95ae1', // 周润发的博客 API key
     //'m797713213-1c83620d56db599960ad0244', // 周润发的公益订阅 API key
     //'m797713331-835664f191b589688f122e00', // 周润发的公益订阅器 API key
@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: '博客',
-      url: 'https://blog.aizrf.COM/'
+      url: 'https://blog.haib.top'
     },
   ],
 };
